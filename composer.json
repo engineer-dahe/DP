@@ -1,0 +1,15 @@
+{
+  "name": "ddinnnng/DP",
+  "description": "Design pattern",
+  "author" : "ddinnnng",
+  "require": {
+  },
+  "require-dev" : {
+    "phpunit/phpunit": "4.8.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ddinnnng\\": "src/"
+    }
+  }
+}
